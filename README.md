@@ -1,5 +1,8 @@
-# Ibn-El-Nafees-App
+# Ibn El-Nafees App
 
+The Ibn El-Nafees App is a mobile application designed to help individuals achieve their weight loss and health goals. The app provides a range of features and tools for patients, allowing them to track progress, set goals, and receive support throughout their weight loss journey.
+
+Patients can use the app to book appointments with medical professionals, access their medical records, and receive personalized diet and exercise plans based on their individual needs and goals. The app also provides tools for tracking weight, body measurements, and progress photos, allowing patients to see their progress over time.
 # OutBoarding Screens
 ![out_boarding](https://user-images.githubusercontent.com/60976526/230230643-e33c7a30-e7b9-4711-8453-8cb032de3771.gif)
 
